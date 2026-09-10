@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import FeaturedDesigns from "./components/FeaturedDesigns";
 import Services from "./components/Services";
 import AboutPreview from "./components/AboutPreview";
+import CallToAction from "./components/CallToAction";
 
 export default function Home() {
   return (
@@ -44,6 +45,7 @@ export default function Home() {
         <FeaturedDesigns />
         <Services />
         <AboutPreview />
+        <CallToAction />
       </main>
     </>
   );
