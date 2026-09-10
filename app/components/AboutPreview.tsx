@@ -15,7 +15,7 @@ export default function AboutPreview() {
           Every creation begins with an idea and is shaped with intention.
         </p>
         <a className="about-preview-link" href="/about">
-          Discover Our Story <span aria-hidden="true">↗</span>
+          Discover Our Story <span aria-hidden="true" className="luxury-mark" />
         </a>
       </div>
     </section>
