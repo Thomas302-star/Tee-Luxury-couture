@@ -24,7 +24,7 @@ export default function Home() {
                 Get in Touch
               </a>
               <a className="hero-secondary" href="/portfolio">
-                View Portfolio <span aria-hidden="true">↗</span>
+                View Portfolio <span aria-hidden="true" className="luxury-mark" />
               </a>
             </div>
           </div>
