@@ -8,7 +8,7 @@ export default function Home() {
       <main>
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-copy">
-            <p className="hero-eyebrow">TEe Luxury Couture · Fashion Studio</p>
+            <p className="hero-eyebrow">Tee Luxury Couture · Fashion Studio</p>
             <h1 id="hero-title">Timeless fashion, crafted with intention.</h1>
             <p className="hero-description">
               Thoughtfully designed couture pieces for clients who value
