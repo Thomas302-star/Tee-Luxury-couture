@@ -1,0 +1,10 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F3F0EB"/>
+  <circle cx="450" cy="310" r="105" fill="#DED8D0"/>
+  <path d="M391 405C364 452 335 503 309 575L233 930C226 963 251 989 286 989H614C649 989 674 963 667 930L591 575C565 503 536 452 509 405C491 424 472 434 450 434C428 434 409 424 391 405Z" fill="#171717"/>
+  <path d="M391 405C371 472 356 533 348 598L325 989H575L552 598C544 533 529 472 509 405C491 424 472 434 450 434C428 434 409 424 391 405Z" fill="#292929"/>
+  <path d="M391 405C409 424 428 434 450 434C472 434 491 424 509 405L528 470C506 489 480 499 450 499C420 499 394 489 372 470L391 405Z" fill="#F3F0EB"/>
+  <path d="M347 598C381 624 416 637 450 637C484 637 519 624 553 598" stroke="#DED8D0" stroke-width="3"/>
+  <path d="M275 895C337 866 389 853 450 853C511 853 563 866 625 895" stroke="#DED8D0" stroke-width="3"/>
+  <text x="450" y="1042" text-anchor="middle" fill="#6D675F" font-family="Georgia, serif" font-size="22" letter-spacing="8">TEE LUXURY COUTURE</text>
+</svg>
