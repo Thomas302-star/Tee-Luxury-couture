@@ -52,14 +52,14 @@ export default function FeaturedDesigns() {
                 <h3>{design.name}</h3>
                 <p>{design.category}</p>
               </div>
-              <span aria-hidden="true" className="design-arrow">↗</span>
+              <span aria-hidden="true" className="design-arrow luxury-mark" />
             </div>
           </article>
         ))}
       </div>
 
       <a className="featured-link" href="/portfolio">
-        Explore the Portfolio <span aria-hidden="true">↗</span>
+        Explore the Portfolio <span aria-hidden="true" className="luxury-mark" />
       </a>
     </section>
   );
