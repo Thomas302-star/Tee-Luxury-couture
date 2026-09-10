@@ -8,7 +8,7 @@ export default function CallToAction() {
         looking for and let&apos;s bring it to life with intention.
       </p>
       <a className="cta-button" href="/contact">
-        Get in Touch <span aria-hidden="true">↗</span>
+        Get in Touch <span aria-hidden="true" className="luxury-mark" />
       </a>
     </section>
   );
