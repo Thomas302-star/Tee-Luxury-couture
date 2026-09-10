@@ -41,15 +41,13 @@ export default function Services() {
               <h3>{service.title}</h3>
               <p>{service.description}</p>
             </div>
-            <span className="service-arrow" aria-hidden="true">
-              ↗
-            </span>
+            <span className="service-arrow luxury-mark" aria-hidden="true" />
           </article>
         ))}
       </div>
 
       <a className="services-link" href="/services">
-        View All Services <span aria-hidden="true">↗</span>
+        View All Services <span aria-hidden="true" className="luxury-mark" />
       </a>
     </section>
   );
