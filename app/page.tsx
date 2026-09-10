@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Header from "./components/Header";
+import FeaturedDesigns from "./components/FeaturedDesigns";
 
 export default function Home() {
   return (
@@ -37,6 +38,8 @@ export default function Home() {
             <p className="hero-caption">01 / Signature Collection</p>
           </div>
         </section>
+
+        <FeaturedDesigns />
 
         <section className="page-content" aria-label="Introduction">
           <h2>Luxury fashion, thoughtfully designed.</h2>
