@@ -4,6 +4,7 @@ import FeaturedDesigns from "./components/FeaturedDesigns";
 import Services from "./components/Services";
 import AboutPreview from "./components/AboutPreview";
 import CallToAction from "./components/CallToAction";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -47,6 +48,7 @@ export default function Home() {
         <AboutPreview />
         <CallToAction />
       </main>
+      <Footer />
     </>
   );
 }
